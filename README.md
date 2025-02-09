@@ -34,5 +34,6 @@ example of a **responsive business website**.
 
 ## 🔗 **Live Demo**
 👉 [View Live 
-Project](https://github.com/hcheem4/Prime-Pest-Control---Responsive-Business-Website.git)
+Project]( 
+https://hcheem4.github.io/Prime-Pest-Control---Responsive-Business-Website/)
 
